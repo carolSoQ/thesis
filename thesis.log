@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.17)  18 AUG 2015 19:15
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.17)  18 AUG 2015 19:28
 entering extended mode
 **thesis
 (C:\Users\Chi-Jui\Documents\ching\thesis.tex
@@ -165,11 +165,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 (C:\Users\Chi-Jui\Documents\ching\chapters/chapter3.aux)
 (C:\Users\Chi-Jui\Documents\ching\chapters/chapter4.aux)
 (C:\Users\Chi-Jui\Documents\ching\chapters/chapter5.aux)
-(C:\Users\Chi-Jui\Documents\ching\chapters/chapter6.aux
-
-LaTeX Warning: Label `table:nonlin' multiply defined.
-
-) (C:\Users\Chi-Jui\Documents\ching\chapters/chapter7.aux)
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter6.aux)
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter7.aux)
 (C:\Users\Chi-Jui\Documents\ching\appendices/appendix1.aux)
 (C:\Users\Chi-Jui\Documents\ching\appendices/appendix2.aux)
 (C:\Users\Chi-Jui\Documents\ching\appendices/appendix3.aux)
@@ -663,21 +660,22 @@ Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
 
-Overfull \hbox (5.25778pt too wide) in paragraph at lines 71--86
+Overfull \hbox (5.25778pt too wide) in paragraph at lines 71--85
  [][] 
  []
 
-<figs/dimension.png, id=220, 677.53125pt x 413.545pt>
-File: figs/dimension.png Graphic file (type png)
- <use figs/dimension.png>
-Package pdftex.def Info: figs/dimension.png used on input line 91.
-(pdftex.def)             Requested size: 216.81pt x 132.3371pt.
+<figs/usability_evaluation.jpg, id=220, 481.8pt x 289.08pt>
+File: figs/usability_evaluation.jpg Graphic file (type jpg)
+
+<use figs/usability_evaluation.jpg>
+Package pdftex.def Info: figs/usability_evaluation.jpg used on input line 91.
+(pdftex.def)             Requested size: 216.81pt x 130.0848pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [47 <C:/Users/Chi-Jui/Documents/ching/figs/scenario2.png>] [48 <C:/Users/Chi-Ju
-i/Documents/ching/figs/dimension.png>]
+i/Documents/ching/figs/usability_evaluation.jpg>]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
@@ -763,7 +761,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
 [60]) [61] (C:\Users\Chi-Jui\Documents\ching\appendices/appendix3.tex
 Appendix C.
-<ethics/consent.pdf, id=270, 597.23125pt x 845.1575pt>
+<ethics/consent.pdf, id=269, 597.23125pt x 845.1575pt>
 File: ethics/consent.pdf Graphic file (type pdf)
 
 <use ethics/consent.pdf>
@@ -774,7 +772,7 @@ File: ethics/consent.pdf Graphic file (type pdf)
 Package pdftex.def Info: ethics/consent.pdf used on input line 4.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<ethics/consent.pdf, id=273, page=1, 597.23125pt x 845.1575pt>
+<ethics/consent.pdf, id=272, page=1, 597.23125pt x 845.1575pt>
 File: ethics/consent.pdf Graphic file (type pdf)
 
 <use ethics/consent.pdf, page 1>
@@ -806,7 +804,7 @@ Package pdftex.def Info: ethics/consent.pdf, page1 used on input line 4.
  [63 <C:/Users/Chi-Jui/Documents/ching/ethics/consent.pdf>]) (C:\Users\Chi-Jui\
 Documents\ching\appendices/appendix4.tex
 Appendix D.
-<ethics/information.pdf, id=315, 597.23125pt x 845.1575pt>
+<ethics/information.pdf, id=314, 597.23125pt x 845.1575pt>
 File: ethics/information.pdf Graphic file (type pdf)
 
 <use ethics/information.pdf>
@@ -817,7 +815,7 @@ File: ethics/information.pdf Graphic file (type pdf)
 Package pdftex.def Info: ethics/information.pdf used on input line 4.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<ethics/information.pdf, id=318, page=1, 597.23125pt x 845.1575pt>
+<ethics/information.pdf, id=317, page=1, 597.23125pt x 845.1575pt>
 File: ethics/information.pdf Graphic file (type pdf)
 
 <use ethics/information.pdf, page 1>
@@ -841,7 +839,7 @@ Package pdftex.def Info: ethics/information.pdf, page1 used on input line 4.
 
 
 
-] <ethics/information.pdf, id=323, page=2, 597.23125pt x 845.1575pt>
+] <ethics/information.pdf, id=322, page=2, 597.23125pt x 845.1575pt>
 File: ethics/information.pdf Graphic file (type pdf)
 
 <use ethics/information.pdf, page 2>
@@ -864,7 +862,7 @@ Package pdftex.def Info: ethics/information.pdf, page2 used on input line 4.
  [66 <C:/Users/Chi-Jui/Documents/ching/ethics/information.pdf>])
 (C:\Users\Chi-Jui\Documents\ching\appendices/appendix5.tex
 Appendix E.
-<ethics/debrief.pdf, id=365, 597.23125pt x 845.1575pt>
+<ethics/debrief.pdf, id=364, 597.23125pt x 845.1575pt>
 File: ethics/debrief.pdf Graphic file (type pdf)
 
 <use ethics/debrief.pdf>
@@ -875,7 +873,7 @@ File: ethics/debrief.pdf Graphic file (type pdf)
 Package pdftex.def Info: ethics/debrief.pdf used on input line 4.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<ethics/debrief.pdf, id=368, page=1, 597.23125pt x 845.1575pt>
+<ethics/debrief.pdf, id=367, page=1, 597.23125pt x 845.1575pt>
 File: ethics/debrief.pdf Graphic file (type pdf)
 
 <use ethics/debrief.pdf, page 1>
@@ -916,7 +914,7 @@ Missing character: There is no ™ in font cmr12!
 
 ]) [70] (C:\Users\Chi-Jui\Documents\ching\appendices/appendix8.tex
 Appendix G.
-<ethics/approval.pdf, id=417, 597.23125pt x 845.1575pt>
+<ethics/approval.pdf, id=416, 597.23125pt x 845.1575pt>
 File: ethics/approval.pdf Graphic file (type pdf)
 
 <use ethics/approval.pdf>
@@ -927,7 +925,7 @@ File: ethics/approval.pdf Graphic file (type pdf)
 Package pdftex.def Info: ethics/approval.pdf used on input line 4.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
-<ethics/approval.pdf, id=420, page=1, 597.23125pt x 845.1575pt>
+<ethics/approval.pdf, id=419, page=1, 597.23125pt x 845.1575pt>
 File: ethics/approval.pdf Graphic file (type pdf)
 
 <use ethics/approval.pdf, page 1>
@@ -999,29 +997,26 @@ Missing character: There is no ™ in font cmr12!
 (C:\Users\Chi-Jui\Documents\ching\appendices/appendix4.aux)
 (C:\Users\Chi-Jui\Documents\ching\appendices/appendix5.aux)
 (C:\Users\Chi-Jui\Documents\ching\appendices/appendix6.aux)
-(C:\Users\Chi-Jui\Documents\ching\appendices/appendix8.aux))
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+(C:\Users\Chi-Jui\Documents\ching\appendices/appendix8.aux)) ) 
 Here is how much of TeX's memory you used:
- 3311 strings out of 493921
- 51058 string characters out of 3144870
- 111123 words of memory out of 3000000
- 6405 multiletter control sequences out of 15000+200000
+ 3312 strings out of 493921
+ 51125 string characters out of 3144870
+ 111095 words of memory out of 3000000
+ 6406 multiletter control sequences out of 15000+200000
  11571 words of font info for 43 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  43i,18n,45p,1969b,422s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (84 pages, 15693698 bytes).
+<C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on thesis.pdf (84 pages, 15690111 bytes).
 PDF statistics:
- 506 PDF objects out of 1000 (max. 8388607)
+ 505 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  201 words of extra memory for PDF output out of 10000 (max. 10000000)
 
