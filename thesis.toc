@@ -1,0 +1,90 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Background}{1}
+\contentsline {section}{\numberline {1.2}Motivation}{1}
+\contentsline {section}{\numberline {1.3}System}{2}
+\contentsline {section}{\numberline {1.4}Objectives}{2}
+\contentsline {chapter}{\numberline {2}Literature Review}{3}
+\contentsline {section}{\numberline {2.1}Factors in health behaviours and musculoskeletal disorder}{3}
+\contentsline {subsection}{\numberline {2.1.1}Head Rotation and Inclination}{3}
+\contentsline {subsection}{\numberline {2.1.2}Shoulder flexion and ulnar deviation}{3}
+\contentsline {subsection}{\numberline {2.1.3}Arm Rest}{4}
+\contentsline {subsection}{\numberline {2.1.4}Duration of engagement in VDTs activities and others}{4}
+\contentsline {subsection}{\numberline {2.1.5}Summary}{4}
+\contentsline {section}{\numberline {2.2}Target Postures}{4}
+\contentsline {section}{\numberline {2.3}Posture Measurements}{6}
+\contentsline {section}{\numberline {2.4}Posture Improvement Systems}{7}
+\contentsline {section}{\numberline {2.5}Feedback Techniques}{9}
+\contentsline {chapter}{\numberline {3}Feedback Model}{10}
+\contentsline {section}{\numberline {3.1}Level 1 : Subtle}{11}
+\contentsline {section}{\numberline {3.2}Level 2 : Subtle to Obtrusive}{12}
+\contentsline {section}{\numberline {3.3}Level 3 : Obtrusive}{16}
+\contentsline {section}{\numberline {3.4}Summary}{20}
+\contentsline {chapter}{\numberline {4}User Study}{22}
+\contentsline {section}{\numberline {4.1}Objective}{22}
+\contentsline {section}{\numberline {4.2}Objective}{22}
+\contentsline {section}{\numberline {4.3}Method}{22}
+\contentsline {subsection}{\numberline {4.3.1}Posture Measurement}{22}
+\contentsline {subsection}{\numberline {4.3.2}Scenario Observation}{23}
+\contentsline {subsection}{\numberline {4.3.3}Interview}{24}
+\contentsline {section}{\numberline {4.4}Participant}{24}
+\contentsline {section}{\numberline {4.5}Material}{24}
+\contentsline {subsection}{\numberline {4.5.1}Experimental apparatus and resources}{24}
+\contentsline {subsection}{\numberline {4.5.2}Documents for ethics approval}{25}
+\contentsline {section}{\numberline {4.6}Procedure}{25}
+\contentsline {section}{\numberline {4.7}Analysis}{26}
+\contentsline {subsection}{\numberline {4.7.1}Posture Modelling}{26}
+\contentsline {subsection}{\numberline {4.7.2}Priority of Posture Feedback}{30}
+\contentsline {subsection}{\numberline {4.7.3}Feedback Specification}{31}
+\contentsline {subsubsection}{\numberline {4.7.3.1}Incentives}{31}
+\contentsline {subsubsection}{\numberline {4.7.3.2}Feedback methods}{32}
+\contentsline {subsubsection}{\numberline {4.7.3.3}Feedback channels}{33}
+\contentsline {subsubsection}{\numberline {4.7.3.4}Others}{34}
+\contentsline {chapter}{\numberline {5}Feedback System}{36}
+\contentsline {section}{\numberline {5.1}Overview}{36}
+\contentsline {section}{\numberline {5.2}Angel and Devil Clock}{37}
+\contentsline {subsection}{\numberline {5.2.1}objective}{37}
+\contentsline {subsection}{\numberline {5.2.2}description}{37}
+\contentsline {subsection}{\numberline {5.2.3}Design justification}{38}
+\contentsline {section}{\numberline {5.3}Individual Head Tracking}{39}
+\contentsline {subsection}{\numberline {5.3.1}Objective}{39}
+\contentsline {subsection}{\numberline {5.3.2}Description}{39}
+\contentsline {subsection}{\numberline {5.3.3}Design justification}{39}
+\contentsline {section}{\numberline {5.4}ELF}{40}
+\contentsline {subsection}{\numberline {5.4.1}Objective}{40}
+\contentsline {subsection}{\numberline {5.4.2}Description}{40}
+\contentsline {subsection}{\numberline {5.4.3}Design justification}{41}
+\contentsline {section}{\numberline {5.5}Implementation}{41}
+\contentsline {chapter}{\numberline {6}Evaluation}{43}
+\contentsline {section}{\numberline {6.1}Objective}{43}
+\contentsline {section}{\numberline {6.2}Method}{43}
+\contentsline {section}{\numberline {6.3}Participant}{44}
+\contentsline {section}{\numberline {6.4}Material}{44}
+\contentsline {subsection}{\numberline {6.4.1}Experimental apparatus and resources}{44}
+\contentsline {subsection}{\numberline {6.4.2}Documents for ethical concerns}{45}
+\contentsline {section}{\numberline {6.5}Procedure}{45}
+\contentsline {section}{\numberline {6.6}Result and Analysis}{45}
+\contentsline {subsection}{\numberline {6.6.1}Scenario Study}{45}
+\contentsline {subsection}{\numberline {6.6.2}Interview}{47}
+\contentsline {chapter}{\numberline {7}Conclusion and Future Work}{51}
+\contentsline {section}{\numberline {7.1}Current Work}{51}
+\contentsline {section}{\numberline {7.2}Limitation}{52}
+\contentsline {section}{\numberline {7.3}Discussion}{53}
+\contentsline {subsection}{\numberline {7.3.1}Social influence}{53}
+\contentsline {subsection}{\numberline {7.3.2}System performance}{54}
+\contentsline {section}{\numberline {7.4}Contribution}{55}
+\contentsline {section}{\numberline {7.5}Future Work}{55}
+\contentsline {subsection}{\numberline {7.5.1}Posture classification model}{55}
+\contentsline {subsection}{\numberline {7.5.2}New functions}{56}
+\contentsline {chapter}{\numberline {A}Output Device List}{58}
+\contentsline {chapter}{\numberline {B}Instructions for User Study}{59}
+\contentsline {section}{\numberline {B.1}Opening}{59}
+\contentsline {section}{\numberline {B.2}Section 1}{59}
+\contentsline {section}{\numberline {B.3}Section 2}{60}
+\contentsline {section}{\numberline {B.4}Section 3}{60}
+\contentsline {section}{\numberline {B.5}Wrapping up}{61}
+\contentsline {chapter}{\numberline {C}Consent Sheet for User Study}{62}
+\contentsline {chapter}{\numberline {D}Information Sheet}{64}
+\contentsline {chapter}{\numberline {E}Debriefing Form for User Study}{67}
+\contentsline {chapter}{\numberline {F}Interview Instructions for Evaluation}{69}
+\contentsline {chapter}{\numberline {G}Ethical Approval Letter}{71}
+\contentsline {chapter}{Bibliography}{73}

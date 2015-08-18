@@ -1,0 +1,1027 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.17)  18 AUG 2015 19:15
+entering extended mode
+**thesis
+(C:\Users\Chi-Jui\Documents\ching\thesis.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(C:\Users\Chi-Jui\Documents\ching\ociamthesis.cls
+Document Class: ociamthesis 2010/11/22 v2.2 OCIAM thesis class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen105
+\WF@size=\dimen106
+\c@WF@wrappedlines=\count89
+\WF@box=\box26
+\WF@everypar=\toks16
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+Package: pdfpages 2015/07/19 v0.5a Insert pages of external PDF documents (AM)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count90
+\calc@Bcount=\count91
+\calc@Adimen=\dimen107
+\calc@Bdimen=\dimen108
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count92
+\calc@Cskip=\skip45
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+\AM@pagewidth=\dimen109
+\AM@pageheight=\dimen110
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+File: pppdftex.def 2015/07/19 v0.5a Pdfpages driver for pdfTeX (AM)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
+\AM@pagebox=\box27
+\AM@toc@title=\toks17
+\c@AM@survey=\count93
+\AM@templatesizebox=\box28
+)
+(C:\Users\Chi-Jui\Documents\ching\thesis.aux
+(C:\Users\Chi-Jui\Documents\ching\dedication.aux)
+(C:\Users\Chi-Jui\Documents\ching\acknowlegements.aux)
+(C:\Users\Chi-Jui\Documents\ching\abstract.aux)
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter1.aux)
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter2.aux)
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter3.aux)
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter4.aux)
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter5.aux)
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter6.aux
+
+LaTeX Warning: Label `table:nonlin' multiply defined.
+
+) (C:\Users\Chi-Jui\Documents\ching\chapters/chapter7.aux)
+(C:\Users\Chi-Jui\Documents\ching\appendices/appendix1.aux)
+(C:\Users\Chi-Jui\Documents\ching\appendices/appendix2.aux)
+(C:\Users\Chi-Jui\Documents\ching\appendices/appendix3.aux)
+(C:\Users\Chi-Jui\Documents\ching\appendices/appendix4.aux)
+(C:\Users\Chi-Jui\Documents\ching\appendices/appendix5.aux)
+(C:\Users\Chi-Jui\Documents\ching\appendices/appendix6.aux)
+(C:\Users\Chi-Jui\Documents\ching\appendices/appendix8.aux))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count94
+\scratchdimen=\dimen111
+\scratchbox=\box29
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen112
+\MPnumerator=\count98
+\makeMPintoPDFobject=\count99
+\everyMPtoPDFconversion=\toks19
+)
+\AtBeginShipoutBox=\box30
+ <figs/st-andrews_logo.png, id=1, 848.16875pt x 1027.84pt>
+File: figs/st-andrews_logo.png Graphic file (type png)
+
+<use figs/st-andrews_logo.png>
+Package pdftex.def Info: figs/st-andrews_logo.png used on input line 42.
+(pdftex.def)             Requested size: 91.04881pt x 110.3338pt.
+ [1
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Chi-Jui/Document
+s/ching/figs/st-andrews_logo.png>]
+(C:\Users\Chi-Jui\Documents\ching\dedication.tex [2
+
+
+])
+(C:\Users\Chi-Jui\Documents\ching\acknowlegements.tex [3
+
+
+
+])
+(C:\Users\Chi-Jui\Documents\ching\abstract.tex [4
+
+
+
+] [5
+
+])
+(C:\Users\Chi-Jui\Documents\ching\thesis.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+
+
+] [2])
+\tf@toc=\write3
+
+[3] (C:\Users\Chi-Jui\Documents\ching\thesis.lof)
+\tf@lof=\write4
+ [4
+
+]
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter1.tex
+Chapter 1.
+[1
+
+
+
+]) [2] (C:\Users\Chi-Jui\Documents\ching\chapters/chapter2.tex
+Chapter 2.
+
+Overfull \hbox (1.37177pt too wide) in paragraph at lines 3--3
+[]\OT1/cmr/bx/n/17.28 Factors in health be-haviours and mus-cu-loskele-
+ []
+
+[3
+
+
+
+]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ [4]
+Overfull \hbox (17.17134pt too wide) in paragraph at lines 29--48
+ [][] 
+ []
+
+[5]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [6] <figs/kinect_coverage.png, id=56, 507.8975pt x 546.04pt>
+File: figs/kinect_coverage.png Graphic file (type png)
+
+<use figs/kinect_coverage.png>
+Package pdftex.def Info: figs/kinect_coverage.png used on input line 65.
+(pdftex.def)             Requested size: 216.81pt x 233.09291pt.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [7 <C:/Users/Chi-Jui/Documents/ching/figs/kinect_coverage.png>] [8]) [9]
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter3.tex
+Chapter 3.
+[10
+
+
+
+] <figs/brightness.png, id=71, 401.5pt x 200.75pt>
+File: figs/brightness.png Graphic file (type png)
+
+<use figs/brightness.png>
+Package pdftex.def Info: figs/brightness.png used on input line 11.
+(pdftex.def)             Requested size: 216.81pt x 108.40643pt.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ [11 <C:/Users/Chi-Jui/Documents/ching/figs/brightness.png>] <figs/transparent1
+.png, id=76, 547.04375pt x 328.22626pt>
+File: figs/transparent1.png Graphic file (type png)
+
+<use figs/transparent1.png>
+Package pdftex.def Info: figs/transparent1.png used on input line 20.
+(pdftex.def)             Requested size: 216.81pt x 130.08617pt.
+
+<figs/projector2in1.png, id=77, 740.7675pt x 730.73pt>
+File: figs/projector2in1.png Graphic file (type png)
+
+<use figs/projector2in1.png>
+Package pdftex.def Info: figs/projector2in1.png used on input line 70.
+(pdftex.def)             Requested size: 216.81pt x 213.86867pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figs/projector3in1.png, id=78, 2191.18625pt x 1882.03125pt>
+File: figs/projector3in1.png Graphic file (type png)
+
+<use figs/projector3in1.png>
+Package pdftex.def Info: figs/projector3in1.png used on input line 77.
+(pdftex.def)             Requested size: 216.81pt x 186.20392pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (3.99117pt too wide) in paragraph at lines 86--104
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12 <C:/Users/Chi-Jui/Documents/ching/figs/transparent1.png>] [13]
+<figs/ad.png, id=86, 2007.5pt x 903.375pt>
+File: figs/ad.png Graphic file (type png)
+ <use figs/ad.png>
+Package pdftex.def Info: figs/ad.png used on input line 113.
+(pdftex.def)             Requested size: 216.81pt x 97.55202pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+[14 <C:/Users/Chi-Jui/Documents/ching/figs/projector2in1.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [15 <C:/Users/Chi-Jui/Documents/ching/figs/projector3in1.png>]
+Overfull \hbox (7.33987pt too wide) in paragraph at lines 130--170
+ [][] 
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ® in font cmr12!
+[16 <C:/Users/Chi-Jui/Documents/ching/figs/ad.png>] [17]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+<figs/halfroom.png, id=103, 640.3925pt x 357.335pt>
+File: figs/halfroom.png Graphic file (type png)
+ <use figs/halfroom.png>
+Package pdftex.def Info: figs/halfroom.png used on input line 185.
+(pdftex.def)             Requested size: 216.81pt x 120.9743pt.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ® in font cmr12!
+
+Overfull \hbox (23.47165pt too wide) in paragraph at lines 194--248
+ [][] 
+ []
+
+[18 <C:/Users/Chi-Jui/Documents/ching/figs/halfroom.png>] [19]
+<figs/feedbackmodel2.png, id=111, 1027.84pt x 1405.25pt>
+File: figs/feedbackmodel2.png Graphic file (type png)
+
+<use figs/feedbackmodel2.png>
+Package pdftex.def Info: figs/feedbackmodel2.png used on input line 257.
+(pdftex.def)             Requested size: 433.62pt x 592.8384pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [20] [21 <C:/Users/Chi-Jui/Documents/ching/figs/feedbackmodel2.png>]
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter4.tex
+Chapter 4.
+[22
+
+
+
+] [23]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 56.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 56.
+
+[24] [25] [26]
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+<figs/c1.jpg, id=136, 3854.4pt x 2168.1pt>
+File: figs/c1.jpg Graphic file (type jpg)
+ <use figs/c1.jpg>
+Package pdftex.def Info: figs/c1.jpg used on input line 102.
+(pdftex.def)             Requested size: 216.81pt x 121.9421pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+
+Overfull \hbox (34.30377pt too wide) detected at line 107
+\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 XofLeftFeet \OMS/cmsy/m/n/12   \OML/cmm/m/it/
+12 XofRightFeet\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 (\OML/cmm/m
+/it/12 XofLeftShoulder \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 XofRightShoulder\OT1
+/cmr/m/n/12 ) \OML/cmm/m/it/12 < \OT1/cmr/m/n/12 0
+ []
+
+
+Overfull \hbox (27.1399pt too wide) detected at line 109
+\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ZofLeftFeet \OMS/cmsy/m/n/12   \OML/cmm/m/it/
+12 ZofRightFeet\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 (\OML/cmm/m
+/it/12 ZofLeftShoulder \OMS/cmsy/m/n/12   \OML/cmm/m/it/12 ZofRightShoulder\OT1
+/cmr/m/n/12 ) \OML/cmm/m/it/12 < \OT1/cmr/m/n/12 0
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+<figs/c2.jpg, id=137, 3854.4pt x 2168.1pt>
+File: figs/c2.jpg Graphic file (type jpg)
+ <use figs/c2.jpg>
+Package pdftex.def Info: figs/c2.jpg used on input line 113.
+(pdftex.def)             Requested size: 216.81pt x 121.9421pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+<figs/c3.jpg, id=138, 3854.4pt x 2168.1pt>
+File: figs/c3.jpg Graphic file (type jpg)
+ <use figs/c3.jpg>
+Package pdftex.def Info: figs/c3.jpg used on input line 126.
+(pdftex.def)             Requested size: 216.81pt x 121.9421pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+[27 <C:/Users/Chi-Jui/Documents/ching/figs/c1.jpg>]
+<figs/l1.jpg, id=143, 3854.4pt x 2168.1pt>
+File: figs/l1.jpg Graphic file (type jpg)
+ <use figs/l1.jpg>
+Package pdftex.def Info: figs/l1.jpg used on input line 137.
+(pdftex.def)             Requested size: 216.81pt x 121.9421pt.
+ [28 <C:/Users/Chi-Jui/Documents/ching/figs/c2.jpg> <C:/Users/Chi-Jui/Documents
+/ching/figs/c3.jpg> <C:/Users/Chi-Jui/Documents/ching/figs/l1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+<figs/s1.jpg, id=148, 3854.4pt x 2168.1pt>
+File: figs/s1.jpg Graphic file (type jpg)
+ <use figs/s1.jpg>
+Package pdftex.def Info: figs/s1.jpg used on input line 152.
+(pdftex.def)             Requested size: 216.81pt x 121.9421pt.
+
+<figs/lh1.jpg, id=149, 3854.4pt x 2168.1pt>
+File: figs/lh1.jpg Graphic file (type jpg)
+ <use figs/lh1.jpg>
+Package pdftex.def Info: figs/lh1.jpg used on input line 170.
+(pdftex.def)             Requested size: 216.81pt x 121.9421pt.
+ [29 <C:/Users/Chi-Jui/Documents/ching/figs/s1.jpg>]
+<figs/subjective.png, id=153, 685.56125pt x 423.5825pt>
+File: figs/subjective.png Graphic file (type png)
+
+<use figs/subjective.png>
+Package pdftex.def Info: figs/subjective.png used on input line 181.
+(pdftex.def)             Requested size: 216.81pt x 133.95918pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[30 <C:/Users/Chi-Jui/Documents/ching/figs/lh1.jpg>] [31 <C:/Users/Chi-Jui/Docu
+ments/ching/figs/subjective.png>]
+<figs/importance.png, id=161, 826.08624pt x 432.61626pt>
+File: figs/importance.png Graphic file (type png)
+
+<use figs/importance.png>
+Package pdftex.def Info: figs/importance.png used on input line 196.
+(pdftex.def)             Requested size: 216.81pt x 113.54036pt.
+ [32 <C:/Users/Chi-Jui/Documents/ching/figs/importance.png>] <figs/method.png, 
+id=166, 907.39pt x 515.9275pt>
+File: figs/method.png Graphic file (type png)
+ <use figs/method.png>
+Package pdftex.def Info: figs/method.png used on input line 208.
+(pdftex.def)             Requested size: 216.81pt x 123.27405pt.
+
+<figs/channels.png, id=167, 614.295pt x 348.30125pt>
+File: figs/channels.png Graphic file (type png)
+ <use figs/channels.png>
+Package pdftex.def Info: figs/channels.png used on input line 217.
+(pdftex.def)             Requested size: 216.81pt x 122.92767pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figs/audioform.png, id=168, 500.87125pt x 247.92625pt>
+File: figs/audioform.png Graphic file (type png)
+
+<use figs/audioform.png>
+Package pdftex.def Info: figs/audioform.png used on input line 223.
+(pdftex.def)             Requested size: 216.81pt x 107.31741pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[33 <C:/Users/Chi-Jui/Documents/ching/figs/method.png>]) [34 <C:/Users/Chi-Jui/
+Documents/ching/figs/channels.png> <C:/Users/Chi-Jui/Documents/ching/figs/audio
+form.png>] [35] (C:\Users\Chi-Jui\Documents\ching\chapters/chapter5.tex
+Chapter 5.
+[36
+
+
+
+]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [37]
+Overfull \hbox (0.66855pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/12 flow-ers rep-re-sent good pos-ture be-haviours and boms rep-re-
+sent bad pos-ture be-haviours.
+ []
+
+[38] [39] [40]) [41] [42]
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter6.tex
+Chapter 6.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+[43
+
+
+
+] [44]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [45] <figs/scenario1.png, id=213, 640.3925pt x 378.41376pt>
+File: figs/scenario1.png Graphic file (type png)
+
+<use figs/scenario1.png>
+Package pdftex.def Info: figs/scenario1.png used on input line 48.
+(pdftex.def)             Requested size: 216.81pt x 128.11043pt.
+
+<figs/scenario2.png, id=214, 641.39626pt x 371.3875pt>
+File: figs/scenario2.png Graphic file (type png)
+
+<use figs/scenario2.png>
+Package pdftex.def Info: figs/scenario2.png used on input line 57.
+(pdftex.def)             Requested size: 216.81pt x 125.53903pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[46 <C:/Users/Chi-Jui/Documents/ching/figs/scenario1.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Overfull \hbox (5.25778pt too wide) in paragraph at lines 71--86
+ [][] 
+ []
+
+<figs/dimension.png, id=220, 677.53125pt x 413.545pt>
+File: figs/dimension.png Graphic file (type png)
+ <use figs/dimension.png>
+Package pdftex.def Info: figs/dimension.png used on input line 91.
+(pdftex.def)             Requested size: 216.81pt x 132.3371pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[47 <C:/Users/Chi-Jui/Documents/ching/figs/scenario2.png>] [48 <C:/Users/Chi-Ju
+i/Documents/ching/figs/dimension.png>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [49]) [50]
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter7.tex
+Chapter 7.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+[51
+
+
+
+]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [52]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [53]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [54]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+ [55]) [56] [57]
+(C:\Users\Chi-Jui\Documents\ching\appendices/appendix1.tex
+Appendix A.
+) [58
+
+
+
+] (C:\Users\Chi-Jui\Documents\ching\appendices/appendix2.tex
+Appendix B.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+[59
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+[60]) [61] (C:\Users\Chi-Jui\Documents\ching\appendices/appendix3.tex
+Appendix C.
+<ethics/consent.pdf, id=270, 597.23125pt x 845.1575pt>
+File: ethics/consent.pdf Graphic file (type pdf)
+
+<use ethics/consent.pdf>
+Package pdftex.def Info: ethics/consent.pdf used on input line 4.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: ethics/consent.pdf Graphic file (type pdf)
+ <use ethics/consent.pdf>
+Package pdftex.def Info: ethics/consent.pdf used on input line 4.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<ethics/consent.pdf, id=273, page=1, 597.23125pt x 845.1575pt>
+File: ethics/consent.pdf Graphic file (type pdf)
+
+<use ethics/consent.pdf, page 1>
+Package pdftex.def Info: ethics/consent.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: ethics/consent.pdf Graphic file (type pdf)
+ <use ethics/consent.pdf, page 1>
+Package pdftex.def Info: ethics/consent.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ethics/consent.pdf Graphic file (type pdf)
+
+<use ethics/consent.pdf, page 1>
+Package pdftex.def Info: ethics/consent.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ethics/consent.pdf Graphic file (type pdf)
+ <use ethics/consent.pdf, page 1>
+Package pdftex.def Info: ethics/consent.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [62
+
+
+
+]
+File: ethics/consent.pdf Graphic file (type pdf)
+
+<use ethics/consent.pdf, page 1>
+Package pdftex.def Info: ethics/consent.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [63 <C:/Users/Chi-Jui/Documents/ching/ethics/consent.pdf>]) (C:\Users\Chi-Jui\
+Documents\ching\appendices/appendix4.tex
+Appendix D.
+<ethics/information.pdf, id=315, 597.23125pt x 845.1575pt>
+File: ethics/information.pdf Graphic file (type pdf)
+
+<use ethics/information.pdf>
+Package pdftex.def Info: ethics/information.pdf used on input line 4.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: ethics/information.pdf Graphic file (type pdf)
+ <use ethics/information.pdf>
+Package pdftex.def Info: ethics/information.pdf used on input line 4.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<ethics/information.pdf, id=318, page=1, 597.23125pt x 845.1575pt>
+File: ethics/information.pdf Graphic file (type pdf)
+
+<use ethics/information.pdf, page 1>
+Package pdftex.def Info: ethics/information.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: ethics/information.pdf Graphic file (type pdf)
+ <use ethics/information.pdf, page 1>
+Package pdftex.def Info: ethics/information.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ethics/information.pdf Graphic file (type pdf)
+
+<use ethics/information.pdf, page 1>
+Package pdftex.def Info: ethics/information.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ethics/information.pdf Graphic file (type pdf)
+ <use ethics/information.pdf, page 1>
+Package pdftex.def Info: ethics/information.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+
+[64
+
+
+
+] <ethics/information.pdf, id=323, page=2, 597.23125pt x 845.1575pt>
+File: ethics/information.pdf Graphic file (type pdf)
+
+<use ethics/information.pdf, page 2>
+Package pdftex.def Info: ethics/information.pdf, page2 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ethics/information.pdf Graphic file (type pdf)
+ <use ethics/information.pdf, page 2>
+Package pdftex.def Info: ethics/information.pdf, page2 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ethics/information.pdf Graphic file (type pdf)
+
+<use ethics/information.pdf, page 1>
+Package pdftex.def Info: ethics/information.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [65 <C:/Users/Chi-Jui/Documents/ching/ethics/information.pdf>]
+File: ethics/information.pdf Graphic file (type pdf)
+ <use ethics/information.pdf, page 2>
+Package pdftex.def Info: ethics/information.pdf, page2 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [66 <C:/Users/Chi-Jui/Documents/ching/ethics/information.pdf>])
+(C:\Users\Chi-Jui\Documents\ching\appendices/appendix5.tex
+Appendix E.
+<ethics/debrief.pdf, id=365, 597.23125pt x 845.1575pt>
+File: ethics/debrief.pdf Graphic file (type pdf)
+
+<use ethics/debrief.pdf>
+Package pdftex.def Info: ethics/debrief.pdf used on input line 4.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: ethics/debrief.pdf Graphic file (type pdf)
+ <use ethics/debrief.pdf>
+Package pdftex.def Info: ethics/debrief.pdf used on input line 4.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<ethics/debrief.pdf, id=368, page=1, 597.23125pt x 845.1575pt>
+File: ethics/debrief.pdf Graphic file (type pdf)
+
+<use ethics/debrief.pdf, page 1>
+Package pdftex.def Info: ethics/debrief.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: ethics/debrief.pdf Graphic file (type pdf)
+ <use ethics/debrief.pdf, page 1>
+Package pdftex.def Info: ethics/debrief.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ethics/debrief.pdf Graphic file (type pdf)
+
+<use ethics/debrief.pdf, page 1>
+Package pdftex.def Info: ethics/debrief.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ethics/debrief.pdf Graphic file (type pdf)
+ <use ethics/debrief.pdf, page 1>
+Package pdftex.def Info: ethics/debrief.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [67
+
+
+
+]
+File: ethics/debrief.pdf Graphic file (type pdf)
+
+<use ethics/debrief.pdf, page 1>
+Package pdftex.def Info: ethics/debrief.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [68 <C:/Users/Chi-Jui/Documents/ching/ethics/debrief.pdf>]) (C:\Users\Chi-Jui\
+Documents\ching\appendices/appendix6.tex
+Appendix F.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+[69
+
+
+
+]) [70] (C:\Users\Chi-Jui\Documents\ching\appendices/appendix8.tex
+Appendix G.
+<ethics/approval.pdf, id=417, 597.23125pt x 845.1575pt>
+File: ethics/approval.pdf Graphic file (type pdf)
+
+<use ethics/approval.pdf>
+Package pdftex.def Info: ethics/approval.pdf used on input line 4.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: ethics/approval.pdf Graphic file (type pdf)
+ <use ethics/approval.pdf>
+Package pdftex.def Info: ethics/approval.pdf used on input line 4.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+<ethics/approval.pdf, id=420, page=1, 597.23125pt x 845.1575pt>
+File: ethics/approval.pdf Graphic file (type pdf)
+
+<use ethics/approval.pdf, page 1>
+Package pdftex.def Info: ethics/approval.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: ethics/approval.pdf Graphic file (type pdf)
+ <use ethics/approval.pdf, page 1>
+Package pdftex.def Info: ethics/approval.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ethics/approval.pdf Graphic file (type pdf)
+
+<use ethics/approval.pdf, page 1>
+Package pdftex.def Info: ethics/approval.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: ethics/approval.pdf Graphic file (type pdf)
+ <use ethics/approval.pdf, page 1>
+Package pdftex.def Info: ethics/approval.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [71
+
+
+
+]
+File: ethics/approval.pdf Graphic file (type pdf)
+
+<use ethics/approval.pdf, page 1>
+Package pdftex.def Info: ethics/approval.pdf, page1 used on input line 4.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [72 <C:/Users/Chi-Jui/Documents/ching/ethics/approval.pdf>]) (C:\Users\Chi-Jui
+\Documents\ching\thesis.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 9--14
+\OT1/cmtt/m/n/12 lumoback -[] is -[] an -[] infuriating -[] ingenious -[] postu
+re -[] saving -[] device -[] that -[]
+ []
+
+[73
+
+
+]
+Missing character: There is no √ in font cmr12!
+Missing character: There is no º in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no î in font cmr12!
+
+Underfull \hbox (badness 4084) in paragraph at lines 117--121
+[]\OT1/cmr/m/n/12 Mind and Mus-cle.  Cor-rect-ing pos-ture: Myth or re-al-ity?,
+ Novem-
+ []
+
+[74]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+) [75] (C:\Users\Chi-Jui\Documents\ching\thesis.aux
+(C:\Users\Chi-Jui\Documents\ching\dedication.aux)
+(C:\Users\Chi-Jui\Documents\ching\acknowlegements.aux)
+(C:\Users\Chi-Jui\Documents\ching\abstract.aux)
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter1.aux)
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter2.aux)
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter3.aux)
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter4.aux)
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter5.aux)
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter6.aux)
+(C:\Users\Chi-Jui\Documents\ching\chapters/chapter7.aux)
+(C:\Users\Chi-Jui\Documents\ching\appendices/appendix1.aux)
+(C:\Users\Chi-Jui\Documents\ching\appendices/appendix2.aux)
+(C:\Users\Chi-Jui\Documents\ching\appendices/appendix3.aux)
+(C:\Users\Chi-Jui\Documents\ching\appendices/appendix4.aux)
+(C:\Users\Chi-Jui\Documents\ching\appendices/appendix5.aux)
+(C:\Users\Chi-Jui\Documents\ching\appendices/appendix6.aux)
+(C:\Users\Chi-Jui\Documents\ching\appendices/appendix8.aux))
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3311 strings out of 493921
+ 51058 string characters out of 3144870
+ 111123 words of memory out of 3000000
+ 6405 multiletter control sequences out of 15000+200000
+ 11571 words of font info for 43 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 43i,18n,45p,1969b,422s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on thesis.pdf (84 pages, 15693698 bytes).
+PDF statistics:
+ 506 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,36 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: dedication.aux
+A level-1 auxiliary file: acknowlegements.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: chapters/chapter1.aux
+A level-1 auxiliary file: chapters/chapter2.aux
+A level-1 auxiliary file: chapters/chapter3.aux
+A level-1 auxiliary file: chapters/chapter4.aux
+A level-1 auxiliary file: chapters/chapter5.aux
+A level-1 auxiliary file: chapters/chapter6.aux
+A level-1 auxiliary file: chapters/chapter7.aux
+A level-1 auxiliary file: appendices/appendix1.aux
+A level-1 auxiliary file: appendices/appendix2.aux
+A level-1 auxiliary file: appendices/appendix3.aux
+A level-1 auxiliary file: appendices/appendix4.aux
+A level-1 auxiliary file: appendices/appendix5.aux
+A level-1 auxiliary file: appendices/appendix6.aux
+A level-1 auxiliary file: appendices/appendix8.aux
+The style file: acm-sigchi.bst
+Database file #1: refs.bib
+Repeated entry---line 118 of file refs.bib
+ : @misc{ mindandmuscle_correct_posture
+ :                                     ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "half_room" isn't style-file defined
+--line 285 of file refs.bib
+Repeated entry---line 292 of file refs.bib
+ : @book{ elaboration_modeL_persuasion
+ :                                    ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 305 of file refs.bib
+ :   
+ :   note =        {\url{http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+(There were 3 error messages)
